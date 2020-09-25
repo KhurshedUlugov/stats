@@ -1,7 +1,7 @@
 package stats
 
 import (
-        "github.com/KhurshedUlugov/bank/pkg/bank/types"
+        "github.com/KhurshedUlugov/bank/pkg/types"
 )
 
 // Avg рассчитает среднюю сумму платежа
